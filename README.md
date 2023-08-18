@@ -40,17 +40,26 @@ In the relentless pursuit of perfection, I tinkered with hyperparameters, fine-t
 
 
 
+
 🚀 Future-Ready:
 🚀 Each model, a masterpiece of optimization, was encapsulated using Pickle – future-proofed and ready for action. As I unveil this project on GitHub, I'm excited to share my insights, code, and journey with the world.
+
 
 
 
 🔗 Join the Journey:
 If the realm of employee churn prediction beckons, if you yearn to hone your data analysis finesse, or if you simply crave a peek into the magic of turning data into wisdom, I extend a warm invitation. Collaboration, insights, and camaraderie – let's make this journey memorable.
 
+
+
 🌌 Connect:
 Connect with me:
 
 GitHub: [[https://github.com/arpit22n0295]](https://github.com/arpit22n0295)
+
+
 Email: [[22n0295@iitb.ac.in]](22N0295@iitb.ac.in)
+
+
+
 Embark with me on this odyssey of predictive prowess and unravel the enigma of employee churn! 🌟
